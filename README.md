@@ -61,7 +61,7 @@ New
 - Browser reorganization.  
 - Search Improvements
 - List handling.  Most nodes now can take lists and lists of lists
-- XYZ and Vector improvments:  Normalize, Dot product, components, ploar and spherical coordinates
+- XYZ and Vector improvments:  Normalize, Dot product, components, polar and spherical coordinates
 - Solid Primitives: Boxes, Cylinder, Sphere, Torus
 - Boolean improvments
 - Get Family Location now takes single origin and multi-pick placement families
